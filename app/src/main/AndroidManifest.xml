@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.seclob.mywallet">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RmoneyActivity"></activity>
+        <activity android:name=".CommisionActivity" />
+        <activity android:name=".DthRefreshActivity" />
+        <activity android:name=".MobileRechargeDetailsActivity" />
+        <activity android:name=".KsebHistoryActivity" />
+        <activity android:name=".WalletActivity" />
+        <activity android:name=".DthHistoryActivity" />
+        <activity android:name=".RechargeHostoryActivity" />
+        <activity android:name=".StatementActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".KsebRechargeActivity" />
+        <activity android:name=".DthRechargeActivity" />
+        <activity android:name=".PlansActivity" />
+        <activity android:name=".MobileRechargeActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

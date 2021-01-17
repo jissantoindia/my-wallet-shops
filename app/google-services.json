@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444203683153",
+    "firebase_url": "https://my-walletc.firebaseio.com",
+    "project_id": "my-walletc",
+    "storage_bucket": "my-walletc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444203683153:android:14e7d9e0b02cf891f55770",
+        "android_client_info": {
+          "package_name": "com.seclob.mywallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444203683153-v0svl782blj95l1k9q69ps0fvb87uo36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM1r4j5J4rXqtCaby1YJ47UknmFOZOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444203683153-v0svl782blj95l1k9q69ps0fvb87uo36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

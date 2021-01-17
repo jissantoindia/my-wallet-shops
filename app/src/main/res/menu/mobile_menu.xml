@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Recent Mobile Recharge"/>
+    <item
+        android:id="@+id/grocery"
+        android:enabled="true"
+        android:title="Recent DTH Recharge"/>
+    <item
+        android:id="@+id/food"
+        android:enabled="true"
+        android:title="Recent KSEB Recharge"/>
+
+</menu>

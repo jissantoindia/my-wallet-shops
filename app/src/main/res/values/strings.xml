@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PayTaken</string>
+    <string name="tdapi_urlmrplans">https://api.datayuge.com/v6/rechargeplans/?apikey=cO25vV7ttGcxl83Grv3hMo1E8FlDV0Z8</string>
+    <string name="dthcusinfo">https://api.datayuge.com/api/v1/dth/customer/details?apikey=cO25vV7ttGcxl83Grv3hMo1E8FlDV0Z8</string>
+    <string name="api_url">https://seclob.com/sites/paytaken/api/</string>
+    <string name="recharge_api">https://seclob.com/mywallets/Apireacharge/</string>
+    <string name="shop_api">https://seclob.com/mywallets/Apishopamount/</string>
+
+    <array name="District">
+        <item>All</item>
+        <item>Prepaid</item>
+        <item>Postpaid</item>
+        <item>DTH</item>
+    </array>
+
+</resources>
